@@ -28,7 +28,7 @@ This time, I chose `PinkPanther60.wav` instead of `CantinaBand60.wav`. The frequ
 
 > For each of the three signals above (not including the single sine wave): Was one representation of the data more informative than the other? Is there information that you can understand from one representation that you can't from the other?
 
-Generally speaking, I found that the frequency domain representation was more a more informative and simple representation of the data because the time domain representation includes a lot of redundant information for the periodically-repeating waveforms. Because it's possible to convert between the time- and frequency-domain representations, there isn't any information we can understand from one and not the other.
+Generally speaking, I found that the frequency domain representation was a more informative and simple representation of the data because the time domain representation includes a lot of redundant information for the periodically-repeating waveforms. Because it's possible to convert between the time- and frequency-domain representations, there isn't any information we can understand from one and not the other.
 
 ## 2.2
 
